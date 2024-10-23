@@ -1,2 +1,3 @@
-# dhinesh
-file
+STEP 1: CLONE THE REPOSATORY IN YOUR CODE EDITOR 
+STEP 2: npm install
+STEP 3: npm run dev 
